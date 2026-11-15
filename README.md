@@ -13,5 +13,5 @@ A responsive layout that adapts to laptops, tablets and phones.
 Built with
 Fonts are loaded from Google Fonts.
 
-Author
+Author:
 Rajat Sharma BCA Semester I, 2026
