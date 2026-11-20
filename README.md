@@ -2,7 +2,7 @@ My Assignments
 
 A personal showcase page that brings together my BCA Semester I assignments in one place. It covers my work across web development, visual design and structured problem-solving, from static layouts to interactive builds.
 
-Live page: https://github-rajat229.github.io/My-Assignments/
+Live page: https://rajatsharma31.github.io/My-Assignments/
 
 What the page contains
 A sidebar with my name, the page title and a short introduction. It stays in view while scrolling.
